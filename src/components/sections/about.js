@@ -161,7 +161,7 @@ const About = () => {
 
             <p>
               On the side, I am a digital hobby artist who paints characters from the numerous anime
-              series I vicariously consume. I also play RPG games on the occasion.
+              series I voraciously consume. I also play RPG games on the occasion.
             </p>
           </div>
         </StyledText>
@@ -170,7 +170,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
