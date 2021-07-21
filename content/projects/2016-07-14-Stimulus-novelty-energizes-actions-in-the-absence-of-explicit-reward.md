@@ -8,7 +8,7 @@ tech:
   - Seow, T. X.
   - Dolan, R. J.
   - Düzel, E.
-company: 'PloS one'
+company: 'PloS One'
 showInProjects: true
 ---
 

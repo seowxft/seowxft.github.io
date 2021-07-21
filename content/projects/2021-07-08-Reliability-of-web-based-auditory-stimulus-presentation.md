@@ -2,7 +2,7 @@
 date: '2021-07-08'
 title: 'Reliability of web-based affective auditory stimulus presentation'
 github: ''
-external: 'https://doi.org/10.1101/2021.02.08.430267'
+external: 'https://doi.org/10.3758/s13428-021-01643-0'
 tech:
   - Seow, T. X.F.
   - Hauser, T. U.

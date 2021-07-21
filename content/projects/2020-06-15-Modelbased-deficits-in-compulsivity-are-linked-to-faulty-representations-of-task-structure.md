@@ -2,7 +2,7 @@
 date: '2021-06-15'
 title: 'Model-based learning deficits in compulsivity are linked to faulty representations of task structure'
 github: ''
-external: 'https://doi.org/10.1101/2020.06.11.147447'
+external: 'https://doi.org/10.1523/JNEUROSCI.0031-21.2021'
 tech:
   - Seow, T. X.F.
   - Benoit, E.

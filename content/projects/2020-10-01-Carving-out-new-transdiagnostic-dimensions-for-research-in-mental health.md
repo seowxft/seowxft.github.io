@@ -2,7 +2,7 @@
 date: '2020-10-01'
 title: 'Carving out new transdiagnostic dimensions for research in mental health'
 github: ''
-external: 'https://doi.org/10.1101/2020.06.11.147447'
+external: 'https://doi.org/10.1016/j.bpsc.2020.04.013'
 tech:
   - Gillan, C. M.
   - Seow, T. X.F.
