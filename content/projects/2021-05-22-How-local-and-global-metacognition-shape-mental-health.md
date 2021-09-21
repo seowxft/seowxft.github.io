@@ -14,4 +14,4 @@ showInProjects: true
 
 Biological Psychiatry (2021)
 
-[Doi](https://doi.org/10.1016/j.biopsych.2021.05.013) / [Pdf](/files/2021-05-22-how-local-and-global-metacognition-shape-mental-health.pdf)
+[Doi](https://doi.org/10.1016/j.biopsych.2021.05.013) / [Pdf](/files/2021-05-22-How-local-and-global-metacognition-shape-mental-health.pdf)
