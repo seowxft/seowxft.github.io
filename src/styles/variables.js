@@ -1,20 +1,35 @@
 import { css } from 'styled-components';
 
+//dark-navy: loading background
+//navy: webpage background
+//light-navy: box background
+//lightest-navy: links?
+//navy-shadow:
+//dark-slate: big name font
+//slate:  word color
+//light-slate:  word color
+//lightest-slate:  word color
+//white: navigation font colors
+//green: small number & logo colour & links
+//green-tint-dark: other buttons fill in
+//green-tint: resume fill in
+
 const variables = css`
   :root {
-    --dark-navy: #020c1b;
-    --navy: #eae1dc;
-    --light-navy: #f0eae7;
-    --lightest-navy: #f7f3f1;
-    --navy-shadow: rgba(2, 12, 27, 0.7);
-    --dark-slate: #495670;
-    --slate: #6e6e6e;
-    --light-slate: #72716e;
-    --lightest-slate: #3d3d3d;
-    --white: #e6f1ff;
-    --green: #e85a4f;
-    --green-tint-dark: rgba(246, 189, 185, 0.4);
-    --green-tint: rgba(246, 189, 185, 0.4);
+    --dark-navy: #303841;
+    --navy: #f2f2f2;
+    --light-navy: #fafafa;
+    --lightest-navy: #000000;
+    --navy-shadow: #cccccc;
+    --dark-slate: #3a4750;
+    --slate: #3a4750;
+    --light-slate: #303841;
+    --lightest-slate: #303841;
+    --white: #ffffff;
+    --green: #00adb5;
+    --green-tint-dark: #303841;
+    --green-tint: #1d2229;
+    --header: #303841;
 
     --font-sans: 'Calibre', 'San Francisco', 'SF Pro Text', -apple-system, system-ui, sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;

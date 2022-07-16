@@ -91,10 +91,6 @@ const Footer = () => (
       <a href="https://github.com/bchiang7/v4">
         <div>Base code designed and built by Brittany Chiang</div>
       </a>
-      <br />
-      <a href="https://github.com/RuolinZheng08/RuolinZheng08.github.io">
-        <div>Color scheme by Lynn Zheng</div>
-      </a>
     </StyledCredit>
   </StyledFooter>
 );

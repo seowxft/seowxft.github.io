@@ -63,23 +63,19 @@ const Hero = () => {
   const three = <h3 className="big-heading">I research brain stuff.</h3>;
   const four = (
     <p>
-      I'm a neuroscientist passionate about understanding mental health. Presently, I'm a{' '}
+      I'm a cognitive neuroscientist passionate about understanding mental health. Presently, I'm a{' '}
       <a
         href="https://wellcome.org/grant-funding/schemes/sir-henry-wellcome-postdoctoral-fellowships/"
         target="_blank"
         rel="noreferrer">
         Sir Henry Wellcome Fellow
       </a>{' '}
-      in the{' '}
-      <a href="https://devcompsy.org/" target="_blank" rel="noreferrer">
-        DevComPsy Lab{' '}
-      </a>{' '}
       at the{' '}
       <a href="https://www.mps-ucl-centre.mpg.de/" target="_blank" rel="noreferrer">
         {' '}
-        UCL Max Planck Centre
-      </a>
-      .
+        Max Planck UCL Centre
+      </a>{' '}
+      for Computational Psychiatry and Ageing Research.
     </p>
   );
 

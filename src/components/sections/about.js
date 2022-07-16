@@ -140,8 +140,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is <strong>Tricia</strong> (she/they). I am a London-based
-              neuroscientist from{' '}
+              Hello! I am a London-based cognitive neuroscientist from{' '}
               <a href="https://en.wikipedia.org/wiki/Singapore" target="_blank" rel="noreferrer">
                 sunny Singapore
               </a>
@@ -153,10 +152,12 @@ const About = () => {
               interests lie in understanding the role of{' '}
               <strong>decision making and metacognition</strong> in mental health using a
               combination of transdiagnostic, dimensional approaches with web-based and in-lab
-              behavioural, neuroimaging (EEG/MEG) and computational methods. Currently, I focus on
-              uncovering mechanisms underlying <strong>obsessive-compulsive disorder (OCD)</strong>{' '}
-              and its <strong>psychotherapy</strong> towards predicting and improving treatment
-              outcomes for the individual.
+              behavioural, neuroimaging (EEG/MEG) and computational methods. Currently, I am working
+              with <a href="https://devcompsy.org">Dr Tobias Hauser</a> in the DevComPsy Lab, where
+              I focus on uncovering the mechanisms underlying{' '}
+              <strong>obsessive-compulsive disorder (OCD)</strong> and its{' '}
+              <strong>psychotherapy</strong> towards predicting and improving treatment outcomes for
+              the individual.
             </p>
 
             <p>
