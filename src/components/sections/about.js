@@ -147,7 +147,14 @@ const About = () => {
               .
             </p>
             <p>
-              I obtained my Ph.D at <a href="https://psychology.tcd.ie/">Trinity College Dublin</a>{' '}
+              My training started with{' '}
+              <a href="https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/neuroscience-msci">
+                UCL Msci Neuroscience
+              </a>
+              , with a Masters project with{' '}
+              <a href="https://www.psych.ox.ac.uk/team/laurence-hunt">Dr Laurence Hunt</a>. I then
+              worked with <a href="http://metacoglab.org/">Prof Steve Fleming</a> of the MetaLab
+              before my PhD at <a href="https://psychology.tcd.ie/">Trinity College Dublin</a>{' '}
               supervised by <a href="https://gillanlab.com/">Dr Claire Gillan</a>. My research
               interests lie in understanding the role of{' '}
               <strong>decision making and metacognition</strong> in mental health using a
