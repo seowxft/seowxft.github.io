@@ -147,20 +147,24 @@ const About = () => {
               .
             </p>
             <p>
-              My training started with{' '}
+              I am a graduate of{' '}
               <a href="https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/neuroscience-msci">
                 UCL Msci Neuroscience
               </a>
-              , with a Masters project with{' '}
-              <a href="https://www.psych.ox.ac.uk/team/laurence-hunt">Dr Laurence Hunt</a>. I then
-              worked with <a href="http://metacoglab.org/">Prof Steve Fleming</a> of the MetaLab
+              , during which I completed intern projects with Dr{' '}
+              <a href="https://scholar.google.de/citations?user=eEGGCiUAAAAJ">Raphael Köster</a> and
+              a Msci project with Dr{' '}
+              <a href="https://www.psych.ox.ac.uk/team/laurence-hunt">Laurence Hunt</a>. I then
+              worked with Prof <a href="http://metacoglab.org/">Steve Fleming</a> of the MetaLab
               before my PhD at <a href="https://psychology.tcd.ie/">Trinity College Dublin</a>{' '}
-              supervised by <a href="https://gillanlab.com/">Dr Claire Gillan</a>. My research
-              interests lie in understanding the role of{' '}
+              supervised by Dr <a href="https://gillanlab.com/">Claire Gillan</a>.
+            </p>
+            <p>
+              My research interests lie in understanding the role of{' '}
               <strong>decision making and metacognition</strong> in mental health using a
               combination of transdiagnostic, dimensional approaches with web-based and in-lab
               behavioural, neuroimaging (EEG/MEG) and computational methods. Currently, I am working
-              with <a href="https://devcompsy.org">Dr Tobias Hauser</a> in the DevComPsy Lab, where
+              with Dr <a href="https://devcompsy.org">Tobias Hauser</a> in the DevComPsy Lab, where
               I focus on uncovering the mechanisms underlying{' '}
               <strong>obsessive-compulsive disorder (OCD)</strong> and its{' '}
               <strong>psychotherapy</strong> towards predicting and improving treatment outcomes for

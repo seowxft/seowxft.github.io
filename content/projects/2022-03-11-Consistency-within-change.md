@@ -7,10 +7,10 @@ tech:
   - Loosen, A. M.
   - Seow, T. X.F.
   - Hauser, T. U.
-company: 'Biological Psychiatry'
+company: 'PsyArXiv'
 showInProjects: true
 ---
 
- PsyArXiv (2022)
+PsyArXiv (2022)
 
 [Doi](https://doi.org/10.31234/osf.io/qkf7j) / [Pdf](/files/2022-03-11-Consistency-within-change.pdf)
