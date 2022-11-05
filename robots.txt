@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://seowxft.github.io/sitemap/sitemap-index.xml
+Sitemap: https://seowxft.github.io/sitemap.xml
 Host: https://seowxft.github.io
