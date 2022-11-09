@@ -155,7 +155,7 @@ const About = () => {
               <a href="https://scholar.google.de/citations?user=eEGGCiUAAAAJ">Raphael Köster</a> and
               a Msci project with Dr{' '}
               <a href="https://www.psych.ox.ac.uk/team/laurence-hunt">Laurence Hunt</a>. I then
-              worked with Prof <a href="http://metacoglab.org/">Steve Fleming</a> of the MetaLab
+              worked with Dr <a href="http://metacoglab.org/">Steve Fleming</a> of the MetaLab
               before my PhD at <a href="https://psychology.tcd.ie/">Trinity College Dublin</a>{' '}
               supervised by Dr <a href="https://gillanlab.com/">Claire Gillan</a>.
             </p>
@@ -170,7 +170,13 @@ const About = () => {
               <strong>psychotherapy</strong> towards predicting and improving treatment outcomes for
               the individual.
             </p>
-
+            <p>
+              I also currently organise the{' '}
+              <a href="https://seowxft.github.io/cptalks/">
+                Computational Psychiatry Seminar Series
+              </a>
+              .
+            </p>
             <p>
               On the side, I am a digital hobby artist who paints characters from the numerous anime
               series I voraciously consume. I also play RPG games on the occasion.
