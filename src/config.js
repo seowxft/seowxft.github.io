@@ -45,6 +45,10 @@ module.exports = {
       name: 'Contact',
       url: '/#contact',
     },
+    {
+      name: 'CP Talks',
+      url: 'https://seowxft.github.io/cptalks/',
+    },
   ],
 
   colors: {

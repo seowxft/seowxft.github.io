@@ -155,7 +155,7 @@ const About = () => {
               <a href="https://scholar.google.de/citations?user=eEGGCiUAAAAJ">Raphael Köster</a> and
               a Msci project with Dr{' '}
               <a href="https://www.psych.ox.ac.uk/team/laurence-hunt">Laurence Hunt</a>. I then
-              worked with Dr <a href="http://metacoglab.org/">Steve Fleming</a> of the MetaLab
+              worked with Prof <a href="http://metacoglab.org/">Steve Fleming</a> of the MetaLab
               before my PhD at <a href="https://psychology.tcd.ie/">Trinity College Dublin</a>{' '}
               supervised by Dr <a href="https://gillanlab.com/">Claire Gillan</a>.
             </p>
@@ -164,14 +164,14 @@ const About = () => {
               <strong>decision making and metacognition</strong> in mental health using a
               combination of transdiagnostic, dimensional approaches with web-based and in-lab
               behavioural, neuroimaging (EEG/MEG) and computational methods. Currently, I am working
-              with Dr <a href="https://devcompsy.org">Tobias Hauser</a> in the DevComPsy Lab, where
-              I focus on uncovering the mechanisms underlying{' '}
+              with Prof <a href="https://devcompsy.org">Tobias Hauser</a> in the DevComPsy Lab,
+              where I focus on uncovering the mechanisms underlying{' '}
               <strong>obsessive-compulsive disorder (OCD)</strong> and its{' '}
               <strong>psychotherapy</strong> towards predicting and improving treatment outcomes for
               the individual.
             </p>
             <p>
-              I also currently organise the{' '}
+              I also now organise the{' '}
               <a href="https://seowxft.github.io/cptalks/">
                 Computational Psychiatry Seminar Series
               </a>
@@ -179,7 +179,8 @@ const About = () => {
             </p>
             <p>
               On the side, I am a digital hobby artist who paints characters from the numerous anime
-              series I voraciously consume. I also play RPG games on the occasion.
+              series I voraciously consume. I also play{' '}
+              <a href="https://genshin.hoyoverse.com/en/">RPG games</a> casually.
             </p>
           </div>
         </StyledText>

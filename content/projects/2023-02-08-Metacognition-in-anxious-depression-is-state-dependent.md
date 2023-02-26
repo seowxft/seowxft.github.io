@@ -22,4 +22,4 @@ showInProjects: true
 
 PsyArXiv (2023)
 
-[Doi](https://psyarxiv.com/uk7hr) / [Pdf](/files/2023-02-08-Metacognition-in-anxious-depression-is-state-dependent.pdf)
+[Doi](https://psyarxiv.com/uk7hr) / [Pdf](/files/2023-02-08-Metacognition-in-anxious-depression-is-state-dependent.pdf) / [Data & Analysis Code](https://osf.io/89xzq/)
