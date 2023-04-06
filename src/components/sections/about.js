@@ -153,7 +153,7 @@ const About = () => {
               </a>
               , during which I completed intern projects with Dr{' '}
               <a href="https://scholar.google.de/citations?user=eEGGCiUAAAAJ">Raphael Köster</a> and
-              a Msci project with Dr{' '}
+              a Msci project with Prof{' '}
               <a href="https://www.psych.ox.ac.uk/team/laurence-hunt">Laurence Hunt</a>. I then
               worked with Prof <a href="http://metacoglab.org/">Steve Fleming</a> of the MetaLab
               before my PhD at <a href="https://psychology.tcd.ie/">Trinity College Dublin</a>{' '}

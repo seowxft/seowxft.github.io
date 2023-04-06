@@ -9,5 +9,5 @@ url: 'https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/neuroscie
 
 - Wellcome Trust Centre for Neuroimaging, University College London, United Kingdom
 - Thesis: Choice Dynamics with MEG
-- Supervisor: **[Dr Laurence Hunt](https://www.huntlab.co.uk/)**
+- Supervisor: **[Prof Laurence Hunt](https://www.huntlab.co.uk/)**
 - Graduated First Class Honours, Year Three & Four Burnstock Prize (Top cohort performance)
