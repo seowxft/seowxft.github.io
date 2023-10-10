@@ -179,8 +179,7 @@ const About = () => {
             </p>
             <p>
               On the side, I am a digital hobby artist who paints characters from the numerous anime
-              series I voraciously consume. I also play{' '}
-              <a href="https://genshin.hoyoverse.com/en/">RPG games</a> casually.
+              series I voraciously consume.
             </p>
           </div>
         </StyledText>
