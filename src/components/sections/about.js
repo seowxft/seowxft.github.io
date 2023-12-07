@@ -171,7 +171,7 @@ const About = () => {
               the individual.
             </p>
             <p>
-              I also now organise the{' '}
+              I also organise the{' '}
               <a href="https://seowxft.github.io/cptalks/">
                 Computational Psychiatry Seminar Series
               </a>

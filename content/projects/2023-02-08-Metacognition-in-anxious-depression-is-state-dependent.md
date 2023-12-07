@@ -1,8 +1,8 @@
 ---
-date: '2023-02-08'
-title: 'Metacognition in anxious-depression is state-dependent: an observational treatment study'
+date: '2023-10-11'
+title: 'An observational treatment study of metacognition in anxious-depression'
 github:
-external: 'https://psyarxiv.com/uk7hr'
+external: 'https://elifesciences.org/articles/87193'
 tech:
   - Fox, C. A.
   - Lee, C. T.
@@ -16,10 +16,10 @@ tech:
   - Stephan, K. E.
   - Gillan, C.
 
-company: 'PsyArXiv'
+company: 'eLife'
 showInProjects: true
 ---
 
-PsyArXiv (2023)
+eLife (2023)
 
-[Doi](https://psyarxiv.com/uk7hr) / [Pdf](/files/2023-02-08-Metacognition-in-anxious-depression-is-state-dependent.pdf) / [Data & Analysis Code](https://osf.io/89xzq/)
+[Doi](https://elifesciences.org/articles/87193) / [Pdf](/files/2023-10-11-An-observational-treatment-study.pdf) / [Data & Analysis Code](https://osf.io/89xzq/)
