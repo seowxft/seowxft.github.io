@@ -46,6 +46,10 @@ module.exports = {
       url: '/#contact',
     },
     {
+      name: 'OCD and the Brain',
+      url: 'https://ocdandthebrain.com/',
+    },
+    {
       name: 'CP Talks',
       url: 'https://seowxft.github.io/cptalks/',
     },

@@ -167,11 +167,13 @@ const About = () => {
               with Prof <a href="https://devcompsy.org">Tobias Hauser</a> in the DevComPsy Lab,
               where I focus on uncovering the mechanisms underlying{' '}
               <strong>obsessive-compulsive disorder (OCD)</strong> and its{' '}
-              <strong>psychotherapy</strong> towards predicting and improving treatment outcomes for
-              the individual.
+              <strong>psychotherapy</strong>. To make OCD brain research accessible to everyone, I
+              also co-produced the knowledge hub{' '}
+              <a href="https://ocdandthebrain.com/">OCD and the Brain</a> with charities and people
+              living with OCD.
             </p>
             <p>
-              I also organise the{' '}
+              More broadly, I organise the{' '}
               <a href="https://seowxft.github.io/cptalks/">
                 Computational Psychiatry Seminar Series
               </a>
