@@ -46,7 +46,7 @@ module.exports = {
       url: '/#contact',
     },
     {
-      name: 'OCD and the Brain',
+      name: 'OCD & B',
       url: 'https://ocdandthebrain.com/',
     },
     {
