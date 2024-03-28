@@ -8,6 +8,6 @@ url: 'https://gillanlab.com/'
 ---
 
 - School of Psychology, Trinity College Dublin, Ireland
-- Funded by a <u>[Postgraduate Ussher Fellowship](https://www.tcd.ie/study/postgraduate/scholarships-funding/irish-eu/usher.php)</u>
-- Dissertation: <u>[The Neurocognitive Correlates of Compulsivity](/files/SeowXingFangTricia_theNeurocognitiveCorrelatesofCompulsivity.pdf)</u>
+- Funded by a _[Postgraduate Ussher Fellowship](https://www.tcd.ie/study/postgraduate/scholarships-funding/irish-eu/usher.php)_
+- Dissertation: _[The Neurocognitive Correlates of Compulsivity](/files/SeowXingFangTricia_theNeurocognitiveCorrelatesofCompulsivity.pdf)_
 - Supervisor: **[Dr Claire Gillan](https://gillanlab.com/)**
