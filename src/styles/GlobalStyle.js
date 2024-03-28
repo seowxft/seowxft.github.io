@@ -420,6 +420,7 @@ const GlobalStyle = createGlobalStyle`
     }
   }
 
+
   .gatsby-image-outer-wrapper {
     height: 100%;
   }

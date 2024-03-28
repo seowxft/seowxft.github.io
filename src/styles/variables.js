@@ -3,33 +3,50 @@ import { css } from 'styled-components';
 //dark-navy: loading background
 //navy: webpage background
 //light-navy: box background
-//lightest-navy: links?
-//navy-shadow:
-//dark-slate: big name font
-//slate:  word color
-//light-slate:  word color
-//lightest-slate:  word color
+//lightest-navy: the lines at the section headers & highlight colour
+//navy-shadow: box shadow?
+//dark-slate: bscroller bar up and down
+//slate:  word color (main text - i research brain stuff)
+//light-slate:  word color in the boxes (big name)
+//lightest-slate:  Section header word colours, highlted font colour
 //white: navigation font colors
-//green: small number & logo colour & links
-//green-tint-dark: other buttons fill in
-//green-tint: resume fill in
+//green: small numbers & logo colour & links & photo tint
+//green-tint-dark: logo fill in
+//green-tint: button fill in (does not include logo fill in)
+//header (only on home page, doesnt change the scrolling up header)
+
+//old
+//--dark-navy: #303841;
+//--navy: #f2f2f2;
+//--light-navy: #fafafa;
+//--lightest-navy: #000000;
+//--navy-shadow: #cccccc;
+//--dark-slate: #3a4750;
+//--slate: #3a4750;
+//--light-slate: #303841;
+//--lightest-slate: #303841;
+//--white: #ffffff;
+//--green: #00adb5;
+//--green-tint-dark: #303841;
+//--green-tint: #1d2229;
+//--header: #303841;
 
 const variables = css`
   :root {
-    --dark-navy: #303841;
-    --navy: #f2f2f2;
-    --light-navy: #fafafa;
-    --lightest-navy: #000000;
-    --navy-shadow: #cccccc;
-    --dark-slate: #3a4750;
-    --slate: #3a4750;
-    --light-slate: #303841;
-    --lightest-slate: #303841;
-    --white: #ffffff;
-    --green: #00adb5;
-    --green-tint-dark: #303841;
-    --green-tint: #1d2229;
-    --header: #303841;
+    --dark-navy: #000000;
+    --navy: #121212;
+    --light-navy: #1e1e1e;
+    --lightest-navy: #0d47a1;
+    --navy-shadow: #000000;
+    --dark-slate: #fbbd8c;
+    --slate: #eeeeee;
+    --light-slate: #e3f2fd;
+    --lightest-slate: #e3f2fd;
+    --white: #e0f7fa;
+    --green: #82b1ff;
+    --green-tint-dark: #000000;
+    --green-tint: #000000;
+    --header: #000000;
 
     --font-sans: 'Calibre', 'San Francisco', 'SF Pro Text', -apple-system, system-ui, sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
