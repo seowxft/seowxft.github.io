@@ -67,10 +67,11 @@ const Hero = () => {
       <a
         href="https://wellcome.org/grant-funding/schemes/sir-henry-wellcome-postdoctoral-fellowships/"
         target="_blank"
-        rel="noreferrer">
-        Sir Henry Wellcome Fellow
+        rel="noreferrer"
+      >
+        Sir Henry Wellcome
       </a>{' '}
-      at the{' '}
+      Postdoctoral Fellow at the{' '}
       <a href="https://www.mps-ucl-centre.mpg.de/" target="_blank" rel="noreferrer">
         {' '}
         Max Planck UCL Centre

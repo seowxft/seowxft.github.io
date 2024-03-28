@@ -163,21 +163,19 @@ const About = () => {
               My research interests lie in understanding the role of{' '}
               <strong>decision making and metacognition</strong> in mental health using a
               combination of transdiagnostic, dimensional approaches with web-based and in-lab
-              behavioural, neuroimaging (EEG/MEG) and computational methods. Currently, I am working
-              with Prof <a href="https://devcompsy.org">Tobias Hauser</a> in the DevComPsy Lab,
-              where I focus on uncovering the mechanisms underlying{' '}
+              behavioural, neuroimaging (EEG/MEG) and computational methods. Currently, I work with
+              Prof <a href="https://devcompsy.org">Tobias Hauser</a> in the DevComPsy Lab, where I
+              focus on uncovering the mechanisms underlying{' '}
               <strong>obsessive-compulsive disorder (OCD)</strong> and its{' '}
               <strong>psychotherapy</strong>. To make OCD brain research accessible to everyone, I
-              also co-produced the knowledge hub{' '}
+              co-produced the knowledge hub{' '}
               <a href="https://ocdandthebrain.com/">OCD and the Brain</a> with charities and people
               living with OCD.
             </p>
             <p>
               More broadly, I organise the{' '}
-              <a href="https://seowxft.github.io/cptalks/">
-                Computational Psychiatry Seminar Series
-              </a>
-              .
+              <a href="https://seowxft.github.io/cptalks/">Computational Psychiatry Seminar</a>{' '}
+              Series.
             </p>
             <p>
               On the side, I am a digital hobby artist who paints characters from the numerous anime

@@ -2,7 +2,7 @@
 date: '2024-02-19'
 title: 'What looks dangerous? Reliability of anxiety and harm ratings of animal and tool visual stimuli'
 github:
-external: 'https://elifesciences.org/articles/87193'
+external: 'https://wellcomeopenresearch.org/articles/9-83/v1'
 tech:
   - Seow, T. XF.
   - Hauser, T. U.
