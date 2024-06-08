@@ -17,4 +17,4 @@ showInProjects: true
 
 The Journal of Neuroscience (2021)
 
-[Doi](https://doi.org/10.1523/JNEUROSCI.0031-21.2021) / [Pdf](/files/2020-06-15-Model-based-learning-deficits-in-compulsivity-are-linked-to-faulty-rep.pdf) / [Data & Code](https://osf.io/mx9kf/)
+[Doi](https://doi.org/10.1523/JNEUROSCI.0031-21.2021) / [Pdf](/files/2020-06-15-Model-based-learning-deficits-in-compulsivity-are-linked-to-faulty-rep.pdf) / [Data & Analysis Code](https://osf.io/mx9kf/)

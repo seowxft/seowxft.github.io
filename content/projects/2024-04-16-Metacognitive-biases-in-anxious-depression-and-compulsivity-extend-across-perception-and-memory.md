@@ -13,4 +13,4 @@ showInProjects: true
 
 Psyarxiv (2024)
 
-[Doi](https://doi.org/10.31234/osf.io/avyph) / [Pdf](/files/2024-04-16-Metacognitive-biases-in-anxious-depression.pdf) / [Data & Code](https://osf.io/jm2at/) / [Task Code](https://github.com/seowxft/metacognition-tasks)
+[Doi](https://doi.org/10.31234/osf.io/avyph) / [Pdf](/files/2024-04-16-Metacognitive-biases-in-anxious-depression.pdf) / [Data & Analysis Code](https://osf.io/jm2at/) / [Task Code](https://github.com/seowxft/metacognition-tasks)
