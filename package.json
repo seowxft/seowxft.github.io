@@ -14,7 +14,7 @@
   "license": "MIT",
   "browserslist": "> 0.25%, not dead",
   "scripts": {
-    "deploy": "gatsby build && gh-pages -d public -b main",
+    "deploy": "SET NODE_OPTIONS=--openssl-legacy-provider && gatsby build export && gh-pages -d public -b main",
     "build": " gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
