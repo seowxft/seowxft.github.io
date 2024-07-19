@@ -1,6 +1,6 @@
 ---
 date: '2020-06-23'
-title: 'Research Fellow'
+title: 'Senior Research Fellow'
 company: 'DevComPsy Lab'
 location: 'London, UK'
 range: '2020 - present'
