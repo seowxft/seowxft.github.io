@@ -1,6 +1,6 @@
 ---
 date: '2024-07-19'
-title: 'Mechanistic arbitration between candidate dimensions of psychopathology'
+title: 'Cognitive arbitration between candidate dimensions of psychopathology'
 github:
 external: 'https://doi.org/10.31234/osf.io/7waey'
 tech:

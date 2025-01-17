@@ -11,4 +11,4 @@ url: 'https://devcompsy.org/'
 - Max Planck UCL Centre for Computational Psychiatry and Ageing Research, University College London, United Kingdom
 - From 2022: Funded by a _[Sir Henry Wellcome Postdoctoral Fellowship](https://wellcome.org/grant-funding/schemes/sir-henry-wellcome-postdoctoral-fellowships/)_
 - Supervisor: **[Prof Tobias Hauser](https://devcompsy.org/)**
-- [CV](https://seowxft.github.io/CV_SeowXFT.pdf)
+- [view CV](https://seowxft.github.io/CV_SeowXFT.pdf)
