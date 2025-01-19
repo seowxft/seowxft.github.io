@@ -8,10 +8,10 @@ tech:
   - McFadyen, J.
   - Dolan, R. J.
   - Hauser, T. U.
-company: 'BioRXiv'
+company: 'BioRxiv'
 showInProjects: true
 ---
 
-BioRXiv (2025)
+BioRxiv (2025)
 
-[Pdf](/files/2025-01-17-Biased-replay-of-aversive-and-uncertain.pdf) / [Supplementary Material](/files/2025-01-17-Biased-replay-of-aversive-and-uncertain-supplementary.pdf) / [Data & Analysis Code](https://osf.io/sr74e/)
+[Doi](https://doi.org/10.1101/2025.01.17.633533) / [Pdf](/files/2025-01-17-Biased-replay-of-aversive-and-uncertain.pdf) / [Supplementary Material](/files/2025-01-17-Biased-replay-of-aversive-and-uncertain-supplementary.pdf) / [Data & Analysis Code](https://osf.io/sr74e/)
