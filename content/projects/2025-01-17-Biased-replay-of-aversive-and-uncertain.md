@@ -2,7 +2,7 @@
 date: '2025-01-17'
 title: 'Biased replay of aversive and uncertain outcomes underlies irrational decision making.'
 github:
-external:
+external: 'https://doi.org/10.1101/2025.01.17.633533'
 tech:
   - Seow, T. X.F.
   - McFadyen, J.
