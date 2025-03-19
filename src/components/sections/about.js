@@ -173,11 +173,6 @@ const About = () => {
               living with OCD.
             </p>
             <p>
-              More broadly, I organise the{' '}
-              <a href="https://seowxft.github.io/cptalks/">Computational Psychiatry Seminar</a>{' '}
-              Series.
-            </p>
-            <p>
               On the side, I am a digital hobby artist who paints characters from the numerous anime
               series I voraciously consume.
             </p>

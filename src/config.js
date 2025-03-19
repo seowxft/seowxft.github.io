@@ -49,10 +49,6 @@ module.exports = {
       name: 'OCD & B',
       url: 'https://ocdandthebrain.com/',
     },
-    {
-      name: 'CP Talks',
-      url: 'https://seowxft.github.io/cptalks/',
-    },
   ],
 
   colors: {
