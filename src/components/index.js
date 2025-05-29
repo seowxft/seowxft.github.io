@@ -14,3 +14,4 @@ export { default as Featured } from './sections/featured';
 export { default as Projects } from './sections/projects';
 export { default as Contact } from './sections/contact';
 export { default as Talks } from './sections/talks';
+export { default as Publicproj } from './sections/publicproj';

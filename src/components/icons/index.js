@@ -14,3 +14,4 @@ export { default as IconGooglescholar } from './googlescholar';
 export { default as IconOsf } from './osf';
 export { default as IconTwitter2 } from './twitter2';
 export { default as IconGitHub2 } from './github2';
+export { default as IconBluesky } from './bluesky';

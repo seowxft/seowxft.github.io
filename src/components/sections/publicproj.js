@@ -293,11 +293,11 @@ const StyledProject = styled.li`
   }
 `;
 
-const PublicE = () => {
+const Publicproj = () => {
   const data = useStaticQuery(graphql`
     {
       featured: allMarkdownRemark(
-        filter: { fileAbsolutePath: { regex: "/publice/" } }
+        filter: { fileAbsolutePath: { regex: "/publicproj/" } }
         sort: { fields: [frontmatter___date], order: DESC }
       ) {
         edges {
@@ -335,7 +335,7 @@ const PublicE = () => {
   }, []);
 
   return (
-    <section id="projects">
+    <section id="publicproj">
       <h2 className="numbered-heading" ref={revealTitle}>
         Community Projects
       </h2>
@@ -398,4 +398,4 @@ const PublicE = () => {
   );
 };
 
-export default PublicE;
+export default Publicproj;

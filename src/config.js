@@ -3,6 +3,10 @@ module.exports = {
 
   socialMedia: [
     {
+      name: 'Bluesky',
+      url: 'https://bsky.app/profile/seowxft.bsky.social',
+    },
+    {
       name: 'Twitter2',
       url: 'https://twitter.com/seowxft',
     },
@@ -38,16 +42,16 @@ module.exports = {
       url: '/#projects',
     },
     {
+      name: 'Engagements',
+      url: '/#publicproj',
+    },
+    {
       name: 'Talks',
       url: '/#talks',
     },
     {
       name: 'Contact',
       url: '/#contact',
-    },
-    {
-      name: 'OCD & B',
-      url: 'https://ocdandthebrain.com/',
     },
   ],
 

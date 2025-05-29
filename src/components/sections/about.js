@@ -167,10 +167,7 @@ const About = () => {
               Prof <a href="https://devcompsy.org">Tobias Hauser</a> in the DevComPsy Lab, where I
               focus on uncovering the mechanisms underlying{' '}
               <strong>obsessive-compulsive disorder (OCD)</strong> and its{' '}
-              <strong>psychotherapy</strong>. To make OCD brain research accessible to everyone, I
-              co-produced the knowledge hub{' '}
-              <a href="https://ocdandthebrain.com/">OCD and the Brain</a> with charities and people
-              living with OCD.
+              <strong>psychotherapy</strong>.
             </p>
             <p>
               On the side, I am a digital hobby artist who paints characters from the numerous anime
