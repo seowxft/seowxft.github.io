@@ -39,7 +39,7 @@ module.exports = {
     },
     {
       name: 'Publications',
-      url: '/#projects',
+      url: '/archive',
     },
     {
       name: 'Engagements',
