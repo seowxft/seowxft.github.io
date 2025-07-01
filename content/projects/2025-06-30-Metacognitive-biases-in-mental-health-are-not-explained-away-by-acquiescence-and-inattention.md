@@ -14,4 +14,4 @@ showInProjects: true
 
 PsyArXiv (2025)
 
-[Doi](https://doi.org/10.31234/osf.io/k5ab6_v1) / [Pdf](/files/2025-06-30-Metacognitive-biases-in-mental health-are-not-explained-away.pdf) / [Data & Analysis Code](https://osf.io/df4wv/files/osfstorage)
+[Doi](https://doi.org/10.31234/osf.io/k5ab6_v1) / [Pdf](/files/2025-06-30-Metacognitive-biases-in-mental-health-are-not-explained-away.pdf) / [Data & Analysis Code](https://osf.io/df4wv/files/osfstorage)
