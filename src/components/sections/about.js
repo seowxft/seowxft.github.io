@@ -169,10 +169,6 @@ const About = () => {
               <strong>obsessive-compulsive disorder (OCD)</strong> and its{' '}
               <strong>psychotherapy</strong>.
             </p>
-            <p>
-              On the side, I am a digital hobby artist who paints characters from the numerous anime
-              series I voraciously consume.
-            </p>
           </div>
         </StyledText>
 
