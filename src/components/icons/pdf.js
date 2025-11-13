@@ -3,7 +3,7 @@ import pdf from './pdf.svg';
 
 const IconPdf = () => (
   <div>
-    <img src={pdf} alt="pdf" />
+    <img src={pdf} alt="pdf" width={22} height={22} />
   </div>
 );
 
