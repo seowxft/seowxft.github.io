@@ -16,6 +16,7 @@ import {
   IconTwitter2,
   IconGitHub2,
   IconBluesky,
+  IconPdf,
 } from '@components/icons';
 
 const Icon = ({ name }) => {
@@ -52,6 +53,8 @@ const Icon = ({ name }) => {
       return <IconGitHub2 />;
     case 'Bluesky':
       return <IconBluesky />;
+    case 'Pdf':
+      return <IconPdf />;
     default:
       return <IconExternal />;
   }

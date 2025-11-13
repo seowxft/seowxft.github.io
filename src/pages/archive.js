@@ -201,8 +201,8 @@ const ArchivePage = ({ location, data }) => {
                             </a>
                           )}
                           {github && (
-                            <a href={github} aria-label="GitHub Link">
-                              <Icon name="GitHub" />
+                            <a href={github} aria-label="Pdf Link">
+                              <Icon name="Pdf" />
                             </a>
                           )}
                           {ios && (
