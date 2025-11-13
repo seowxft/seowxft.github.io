@@ -1,9 +1,9 @@
 import React from 'react';
-import pdf from './pdf.svg';
+import pdf from './pdf2.svg';
 
 const IconPdf = () => (
   <div>
-    <img src={pdf} alt="pdf" width={22} height={22} />
+    <img src={pdf} alt="pdf" height={22} />
   </div>
 );
 
