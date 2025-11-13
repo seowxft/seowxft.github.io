@@ -223,8 +223,8 @@ const Projects = () => {
             </div>
             <div className="project-links">
               {github && (
-                <a href={github} aria-label="GitHub Link" target="_blank" rel="noreferrer">
-                  <Icon name="GitHub" />
+                <a href={github} aria-label="Pdf Link" target="_blank" rel="noreferrer">
+                  <Icon name="Pdf" />
                 </a>
               )}
               {external && (
