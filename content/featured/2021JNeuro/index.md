@@ -13,7 +13,7 @@ tech:
   - O'Connell, R.
   - Gillan, C. M.
   - The Journal of Neuroscience (2021)
-showInProjects: true
+showInProjects: false
 ---
 
 We sought to determine whether model-based planning deficits in compulsivity stem from impoverished action-outcome relational knowledge (i.e. issues building an accurate model of the world) and/or an inability to translate models into action.

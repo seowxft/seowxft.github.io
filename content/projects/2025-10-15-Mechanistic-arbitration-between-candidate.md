@@ -11,7 +11,7 @@ tech:
   - Benwell, C. S.Y.
   - Tervo-Clemmens, B.
   - Gillan, C. M.
-company: 'PsyArXiv'
+company: 'Molecular Psychiatry'
 showInProjects: true
 ---
 
