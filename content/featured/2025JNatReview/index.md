@@ -9,7 +9,7 @@ tech:
   - Jelinek, L.
   - Moritz, S.
   - Hauser, T. U.
-company: 'Nature Reviews Psychology'
+  - 'Nature Reviews Psychology (2025)'
 showInProjects: true
 ---
 
