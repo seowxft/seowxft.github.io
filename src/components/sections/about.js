@@ -157,7 +157,7 @@ const About = () => {
               <a href="https://www.psych.ox.ac.uk/team/laurence-hunt">Laurence Hunt</a>. I then
               worked with Prof <a href="http://metacoglab.org/">Stephen Fleming</a> before my PhD at{' '}
               <a href="https://psychology.tcd.ie/">Trinity College Dublin</a> supervised by Prof{' '}
-              <a href="https://gillanlab.com/">Claire Gillan</a>.Returning to UCL, I was a{' '}
+              <a href="https://gillanlab.com/">Claire Gillan</a>. Returning to UCL, I was a{' '}
               <a
                 href="https://wellcome.org/grant-funding/schemes/sir-henry-wellcome-postdoctoral-fellowships/"
                 target="_blank"
