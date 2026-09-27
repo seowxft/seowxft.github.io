@@ -155,19 +155,18 @@ const About = () => {
               <a href="https://scholar.google.de/citations?user=eEGGCiUAAAAJ">Raphael Köster</a> and
               a Msci project with Prof{' '}
               <a href="https://www.psych.ox.ac.uk/team/laurence-hunt">Laurence Hunt</a>. I then
-              worked with Prof <a href="http://metacoglab.org/">Steve Fleming</a> of the MetaLab
-              before my PhD at <a href="https://psychology.tcd.ie/">Trinity College Dublin</a>{' '}
-              supervised by Prof <a href="https://gillanlab.com/">Claire Gillan</a>.
+              worked with Prof <a href="http://metacoglab.org/">Stephen Fleming</a> before my PhD at{' '}
+              <a href="https://psychology.tcd.ie/">Trinity College Dublin</a> supervised by Prof{' '}
+              <a href="https://gillanlab.com/">Claire Gillan</a>, and a postdoc with Prof{' '}
+              <a href="https://devcompsy.org">Tobias Hauser</a> back at UCL.
             </p>
             <p>
               My research interests lie in understanding the role of{' '}
               <strong>decision making and metacognition</strong> in mental health using a
               combination of transdiagnostic, dimensional approaches with web-based and in-lab
-              behavioural, neuroimaging (EEG/MEG) and computational methods. Currently, I work with
-              Prof <a href="https://devcompsy.org">Tobias Hauser</a> in the DevComPsy Lab, where I
-              focus on uncovering the mechanisms underlying{' '}
-              <strong>obsessive-compulsive disorder (OCD)</strong> and its{' '}
-              <strong>psychotherapy</strong>.
+              behavioural, neuroimaging (EEG/MEG) and computational methods. My goal is to build a
+              unified hierarchical framework that bridges mechanistic neuroscience and clinical
+              science — transforming how we understand, measure, and treat mental disorders.
             </p>
           </div>
         </StyledText>
