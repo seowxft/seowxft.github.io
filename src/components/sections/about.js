@@ -157,8 +157,22 @@ const About = () => {
               <a href="https://www.psych.ox.ac.uk/team/laurence-hunt">Laurence Hunt</a>. I then
               worked with Prof <a href="http://metacoglab.org/">Stephen Fleming</a> before my PhD at{' '}
               <a href="https://psychology.tcd.ie/">Trinity College Dublin</a> supervised by Prof{' '}
-              <a href="https://gillanlab.com/">Claire Gillan</a>, and a postdoc with Prof{' '}
-              <a href="https://devcompsy.org">Tobias Hauser</a> back at UCL.
+              <a href="https://gillanlab.com/">Claire Gillan</a>.Returning to UCL, I was a{' '}
+              <a
+                href="https://wellcome.org/grant-funding/schemes/sir-henry-wellcome-postdoctoral-fellowships/"
+                target="_blank"
+                rel="noreferrer">
+                Sir Henry Wellcome
+              </a>{' '}
+              Postdoctoral Fellow with Prof <a href="https://devcompsy.org">Tobias Hauser</a>, and
+              am now an{' '}
+              <a
+                href="https://erc.europa.eu/apply-grant/starting-grant/"
+                target="_blank"
+                rel="noreferrer">
+                ERC Starting Grant
+              </a>{' '}
+              awardee.
             </p>
             <p>
               My research interests lie in understanding the role of{' '}
