@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'OCD and the Brain'
 cover: './1.png'
 github:
